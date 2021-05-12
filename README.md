@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=neospeed83.neospeed83)
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=sagarchowdhury.sagarchowdhury)
 
 Hi, I'm [Sagar Chowdhury](https://sagarchowdhury.github.io/portfolio/), one ever learning developer. 🚀 
 I'm passionate about software development ,data science and iot. I am pursuing Masters in computer science from University of New Haven.
@@ -9,10 +9,10 @@ Besides programming, I enjoy photography.
 <br />
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently designing iot products; 
+- 🌱 I’m currently designing iot based products; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@sagarchowdhury](sagarchowdhury2@gmail.com);
-- 📝[Resume](https://drive.google.com/file/d/1V9ky8UnGjwPAiIT9VyZBfb4btPd6jBhV/view?usp=sharing)@
+- 📫 How to reach me: sagarchowdhury241@gmail.com;
+- 📝[Resume](https://drive.google.com/file/d/1V9ky8UnGjwPAiIT9VyZBfb4btPd6jBhV/view?usp=sharing)
 
 
 **Languages and Tools:** 
