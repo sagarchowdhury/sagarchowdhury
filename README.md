@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![](https://visitor-badge.glitch.me/badge?page_id=sagarchowdhury.sagarchowdhury)
 
-Hi, I'm [Sagar Chowdhury](https://sagarchowdhury.github.io/portfolio/), one ever learning developer. 🚀 
+Hi, I'm [Sagar Chowdhury](https://sagarchowdhury.github.io/portfolio/),a learning software developer. 🚀 
 I'm passionate about software development ,data science and iot. I am pursuing Masters in computer science from University of New Haven.
 Besides programming, I enjoy photography.
 
