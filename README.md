@@ -8,7 +8,6 @@ Besides programming, I enjoy photography.
 
 <br />
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently designing iot based products; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sagarchowdhury241@gmail.com;
@@ -38,5 +37,5 @@ Besides programming, I enjoy photography.
   <img align="left" alt="Sagar's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.sagarchowdhury.info/">
-[<img align="left" alt="sagarchowdhuryinfo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<img align="left" alt="sagarchowdhuryinfo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
