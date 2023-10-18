@@ -10,8 +10,7 @@ Besides programming, I enjoy photography.
 
 - 🌱 I’m currently designing java based products; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: sagarchowdhuryjobs@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1V9ky8UnGjwPAiIT9VyZBfb4btPd6jBhV/view?usp=sharing)
+  
 
 
 **Languages and Tools:** 
