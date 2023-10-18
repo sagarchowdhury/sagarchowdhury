@@ -29,11 +29,4 @@ Besides programming, I enjoy photography.
 
 
 
-**Social Media:**
 
-<a href="https://www.linkedin.com/in/sagar-chowdhury07">
-  <img align="left" alt="Sagar's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.sagarchowdhury.info/">
-<img align="left" alt="sagarchowdhuryinfo.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
